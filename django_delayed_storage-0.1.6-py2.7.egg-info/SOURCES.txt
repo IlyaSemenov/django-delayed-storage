@@ -1,0 +1,12 @@
+setup.cfg
+setup.py
+django_delayed_storage/__init__.py
+django_delayed_storage/lib.py
+django_delayed_storage/signals.py
+django_delayed_storage/tasks.py
+django_delayed_storage.egg-info/PKG-INFO
+django_delayed_storage.egg-info/SOURCES.txt
+django_delayed_storage.egg-info/dependency_links.txt
+django_delayed_storage.egg-info/not-zip-safe
+django_delayed_storage.egg-info/requires.txt
+django_delayed_storage.egg-info/top_level.txt
